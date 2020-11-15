@@ -1,0 +1,20 @@
+{
+  "name": "detector-inspector-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-charts": "^5.5.1",
+    "mocha": "^8.2.1",
+    "node-html-parser": "^2.0.0"
+  },
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}
